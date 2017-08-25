@@ -17,7 +17,7 @@
     "author": "Zoran 'Milo' Milanovic",
     "license": "MIT",
     "dependencies": {
-        "compare_json": "0.0.5"
+        "compare_json": "0.0.6"
     },
     "devDependencies": {
         "grunt-md-link-checker": "0.1.1",
