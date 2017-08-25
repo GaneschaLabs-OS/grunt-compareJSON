@@ -1,0 +1,37 @@
+{
+    "name": "grunt-compare_json",
+    "version": "0.0.1",
+    "description": "Checks JSON files within a path for duplicate keys and if all files within the same sub directory have the same keys - Grunt Wrapper",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/GaneschaLabs-OS/grunt-compare_json.git"
+    },
+    "keywords": [
+        "gruntplugin",
+        "JSON",
+        "compare",
+        "check",
+        "duplicate"
+    ],
+    "author": "Zoran 'Milo' Milanovic",
+    "license": "MIT",
+    "dependencies": {
+        "compare_json": "0.0.5"
+    },
+    "devDependencies": {
+        "grunt-md-link-checker": "0.1.1",
+        "load-grunt-tasks": "^3.5.2",
+        "grunt-replace-tab": "0.0.2",
+        "grunt-minor-major-milestone": "0.1.1",
+        "grunt-contrib-jshint": "^1.1.0",
+        "grunt": "~1.0.1"
+    },
+    "peerDependencies": {
+        "grunt": "~1.0.1"
+    },
+    "bugs": {
+        "url": "https://github.com/GaneschaLabs-OS/grunt-compare_json/issues"
+    },
+    "homepage": "https://github.com/GaneschaLabs-OS/grunt-compare_json#readme"
+}
